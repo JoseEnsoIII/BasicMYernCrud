@@ -1,2 +1,2 @@
 # BasicMYernCrud
-![Example Image](../BasicMYernCrud/frontend/public/bb.jpeg)
+![Alt Text](../BasicMYernCrud/frontend/public/bb.jpeg)
